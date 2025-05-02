@@ -1,6 +1,10 @@
 # Squad 2024/25 (i think......3rd season fifa 23 cm, Won the Prem, lost 5-1 to ac milan in the ucl final)
 ## these stats are from before the ucl final against ac milan, but doesnt matter much because you dont get many stats in a 5-1 ucl final loss
 
+> ⚠️ **Note**: A lot of these players are from the youth setup in the CM  
+> I cleared out the entire original squad because they were crap.
+> kept some, but mostly rebuilt
+
 ### 📊 Squad Stats 2024/25 (Before UCL Final)
 
 | Player              | Age | Goals | Assists | Apps | MOTMs |
